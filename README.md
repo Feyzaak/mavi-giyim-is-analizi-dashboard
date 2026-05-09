@@ -23,7 +23,7 @@ Analitik sonuçlar elde etmek için şu istatistiksel ve finansal formüller uyg
 *   **Görsel Öğeler:** Grafiklerdeki ikonlar dış kaynaklardan derlenmiş ve Excel "Resimler" aracıyla entegre edilmiştir.
 *   **Araçlar:** Şekiller, metin kutuları ve grafiklerin tamamı Excel'in yerleşik araçlarıyla oluşturulmuştur.
 
-## Kullanılan Grafik Türleri
+### Kullanılan Grafik Türleri
 *   **Denim Ürün Satış Gelirleri:** Çizgi Grafiği (Zaman serisi takibi).
 *   **Kadın Çalışan Sayısı Dağılımı:** Pasta Grafiği (Yıllara göre dağılım).
 *   **Finansal Performans (Gelir, Net Kâr vb.):** Sütun Grafiği (Karşılaştırmalı analiz).
