@@ -1,6 +1,6 @@
 # mavi-giyim-is-analizi-dashboard
 
-## Mavi Giyim İş Analitiği Dashboard (2019-2023)
+### Mavi Giyim İş Analitiği Dashboard (2019-2023)
 Bu proje, Mavi Giyim'in 5 yıllık finansal ve operasyonel performansını analiz etmek amacıyla hazırlanan bir Veri Görselleştirme ve İş Analitiği çalışmasıdır.
 
 ## Proje Hakkında:
